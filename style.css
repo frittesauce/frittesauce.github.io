@@ -1,0 +1,7 @@
+.landingdiv {
+    display: flex;
+    width: 100dvw;
+    height: 100dvh;
+    align-items: center;
+    justify-content: center;
+}
